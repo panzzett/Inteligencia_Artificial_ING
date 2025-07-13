@@ -48,6 +48,8 @@ Resolver un problema de transporte logístico planificando una secuencia óptima
 - Construcción de niveles P y A (proposiciones y acciones)  
 - Detección de relaciones mutex: efectos inconsistentes, interferencias, necesidades competitivas y soporte inconsistente (tipos 1 y 2).
 
+### 4. Acceso al informe. (.pdf)
+📥 [ACTIVIDAD_IA_CARLOS_G.pdf](./ACTIVIDAD_IA_CARLOS_G.pdf)
 ---
 
 ## ✅ Conclusión
@@ -62,4 +64,4 @@ Carlos Gálvez
 
 > Proyecto práctico de planificación en Inteligencia Artificial con representación formal y resolución heurística.
 
-📥 [ACTIVIDAD_IA_CARLOS_G.pdf](./ACTIVIDAD_IA_CARLOS_G.pdf)
+
