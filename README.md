@@ -11,7 +11,7 @@ Este repositorio recopila dos proyectos aplicados de Inteligencia Artificial, do
 Resolución de un problema de transporte mediante planificación automática.  
 Se utiliza modelado en PDDL, búsqueda heurística A* y grafo de planificación (GraphPlan) para obtener una solución óptima.
 
-🔗 [Ver proyecto completo](https://github.com/panzzett/Inteligencia_Artificial_ING/blob/main/1_README.md)
+🔗 [Ver proyecto completo]([https://github.com/panzzett/Inteligencia_Artificial_ING/blob/main/1_README.md](https://github.com/panzzett/Inteligencia_Artificial_ING/blob/main/3_README.md))
 
 ---
 
@@ -19,7 +19,7 @@ Se utiliza modelado en PDDL, búsqueda heurística A* y grafo de planificación 
 Clustering de gasolineras según precios de carburantes.  
 Se evalúan los grupos con un árbol de decisión J48 entrenado en Weka para validar los patrones encontrados.
 
-🔗 [Ver proyecto completo](https://github.com/panzzett/Inteligencia_Artificial_ING/blob/main/2_README.md)
+🔗 [Ver proyecto completo]([https://github.com/panzzett/Inteligencia_Artificial_ING/blob/main/2_README.md](https://github.com/panzzett/Inteligencia_Artificial_ING/blob/main/2_Readme.md))
 
 ---
 
