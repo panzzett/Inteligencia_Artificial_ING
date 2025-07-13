@@ -50,6 +50,9 @@ Resolver un problema de transporte logístico planificando una secuencia óptima
 
 ### 4. Acceso al informe. (.pdf)
 📥 [ACTIVIDAD_IA_CARLOS_G.pdf](./ACTIVIDAD_IA_CARLOS_G.pdf)
+📥 [Dominio.pddl](./dominio.pddl)
+📥 [Problema.pddl](./problema.pddl)
+
 ---
 
 ## ✅ Conclusión
