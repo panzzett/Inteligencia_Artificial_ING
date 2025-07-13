@@ -47,8 +47,7 @@ Explorar la existencia de agrupaciones significativas en los precios de los carb
 - Validación del patrón interno de los clústeres generados.
 ### 5. Acceso al informe. (.pdf)
 📥 [Act2_GalvezReguera_Carlos.pdf](./Act2_GalvezReguera_Carlos.pdf)
-📥 [Dominio.pddl](./dominio.pddl)
-📥 [Problema.pddl](./problema.pddl)
+
 ---
 
 ## ✅ Conclusión
